@@ -1,0 +1,22 @@
+{
+  "name": "babel-autoconfig",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lgvo/babel-autoconfig.git"
+  },
+  "author": "Luis Gustavo Vilela de Oliveira <luisgustavo.vilela@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lgvo/babel-autoconfig/issues"
+  },
+  "homepage": "https://github.com/lgvo/babel-autoconfig#readme",
+  "dependencies": {
+    "es-feature-tests": "^0.3.0"
+  }
+}
